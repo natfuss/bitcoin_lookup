@@ -74,7 +74,7 @@ def start(address, depth=2, filename='output'):
 if __name__ == '__main__':
     argc = len(sys.argv)
     if argc == 1:
-        print("\nUsage : main.py your_btc_add depth (optionnal) output_file_name (optionnal)\n\nthe default depth is 3\nthe default file name is 'outup.pdf'")
+        print("\nUsage : main.py your_btc_add depth (optionnal) output_file_name (optionnal)\n\nthe default depth is 3\nthe default file name is 'output.pdf'")
     else:
         if argc == 3:
             start(sys.argv[1], int(sys.argv[2]))
