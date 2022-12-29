@@ -2,6 +2,11 @@
 
 This program allows you to trace the outgoing transactions of a Bitcoin address. It downloads a PDF of the result in the form of a graph.
 
+Here is an exemple of result :
+
+![image](https://user-images.githubusercontent.com/62541068/209945388-aaa6e2bc-f852-4adf-96eb-827d704a65bb.png)
+
+
 ## Requirements
 
 - Only on windows :/
